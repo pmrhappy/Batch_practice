@@ -1,0 +1,4 @@
+	new file:   dir1/time_file.bat
+	new file:   getNewFiles.bat
+	new file:   new.txt
+	modified:   new.txt
