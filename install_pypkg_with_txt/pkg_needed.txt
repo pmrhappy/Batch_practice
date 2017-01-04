@@ -1,0 +1,12 @@
+Django==1.10.4
+zmq==0.0.0
+watchdog==0.8.3
+pandas==0.18.1
+pydotplus==2.0.2
+
+[in wheel files]
+matplotlib==1.5.3
+numpy==1.11.2rc1+mkl
+scipy==0.18.1
+scikit-learn==0.18
+python-dateutil==2.5.3
